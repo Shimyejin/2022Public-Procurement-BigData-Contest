@@ -18,3 +18,9 @@
 - K-Means Clustering
 - MCLP(Maximal Covering Location Problem)
 - AHP(Analytic Hierarchy Process) 기법
+
+<br />
+
+```분석도구 ``` <br />
+- Python
+- R
